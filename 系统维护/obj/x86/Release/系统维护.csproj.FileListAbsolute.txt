@@ -1,0 +1,12 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\系统维护\系统维护\bin\x86\Release\系统维护.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\系统维护\系统维护\bin\x86\Release\系统维护.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\系统维护\系统维护\bin\x86\Release\系统维护.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\系统维护\系统维护\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\系统维护\系统维护\obj\x86\Release\系统维护.FirstUseFrm.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\系统维护\系统维护\obj\x86\Release\系统维护.MainFrm.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\系统维护\系统维护\obj\x86\Release\系统维护.PlugFrm.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\系统维护\系统维护\obj\x86\Release\系统维护.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\系统维护\系统维护\obj\x86\Release\系统维护.SkinFrm.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\系统维护\系统维护\obj\x86\Release\系统维护.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\系统维护\系统维护\obj\x86\Release\系统维护.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\系统维护\系统维护\obj\x86\Release\系统维护.pdb
